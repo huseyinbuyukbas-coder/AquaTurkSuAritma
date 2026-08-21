@@ -1,0 +1,7 @@
+{
+  "name": "AQUATÜRK Su Arıtma Sistemleri",
+  "description": "Küçükçekmece ve İstanbul'da evsel ve endüstriyel su arıtma sistemleri, profesyonel montaj, bakım ve filtre değişimi hizmetleri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
